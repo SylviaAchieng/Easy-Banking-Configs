@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBanking accounts production APIs"
+  message: "Welcome to EasyBanking accounts prod APIs"
   contactDetails:
     name: "Sylvia - Product Owner"
     email: "{cipher}00451b0eddd67fb60c91a7d8121e9fcbeb04ba344eff7d4455c2e1a0f98239509b35aa96e5af0083dacdbec53c904c80"
