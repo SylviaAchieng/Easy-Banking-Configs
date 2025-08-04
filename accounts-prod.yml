@@ -3,10 +3,10 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EasyBanking accounts prod APIs"
+  message: "Welcome to EasyBanking accounts webhook APIs"
   contactDetails:
     name: "Sylvia - Product Owner"
-    email: "sylviaachieng156@gmail.com"
+    email: "{cipher}00451b0eddd67fb60c91a7d8121e9fcbeb04ba344eff7d4455c2e1a0f98239509b35aa96e5af0083dacdbec53c904c80"
   onCallSupport:
     -(555) 555-1234
     -(555) 523-1345

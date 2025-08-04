@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EasyBanking accounts APIs"
+  message: "Welcome to EasyBanking accounts docker APIs"
   contactDetails:
     name: "Sylvia Developer"
     email: "sylviaachieng156@gmail.com"
